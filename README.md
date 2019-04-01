@@ -1,2 +1,2 @@
-# Digital_MIC_module_based_on_ADI_Sigma-DSP
+# Digital_MIC_module_based_on_ADI_Sigma-DSP [![Build Status](https://travis-ci.com/luvinland/Digital_MIC_module_based_on_ADI_Sigma-DSP.svg?branch=master)](https://travis-ci.com/luvinland/Digital_MIC_module_based_on_ADI_Sigma-DSP) [![GitHub release](https://img.shields.io/github/release/luvinland/Digital_MIC_module_based_on_ADI_Sigma-DSP.svg)](https://github.com/luvinland/Digital_MIC_module_based_on_ADI_Sigma-DSP/releases)
 Digital Microphone Module software Firmware based on ADI Sigma-DSP with Microchip PIC16LF1487 MCU.
