@@ -4,7 +4,7 @@
 Digital Microphone Module software Firmware based on ADI Sigma-DSP with Microchip PIC16LF1487 MCU.
 
 ## Block diagram
-![block_diagram](https://user-images.githubusercontent.com/26864945/55306946-e4133a80-5490-11e9-96bc-c0f934b3de6e.png)
+![block_diagram_1](https://user-images.githubusercontent.com/26864945/55307728-5e44be80-5493-11e9-8445-2d62e2d9a1eb.png)
 
 ## Hardware
 * MCU : [MICROCHIPS 8-bit PIC16LF1487](https://www.microchip.com/design-centers/8-bit)
